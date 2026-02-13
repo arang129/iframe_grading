@@ -80,7 +80,7 @@ TEMPLATE = """\
     </style>
 </head>
 <body>
-    <iframe src="https://jupyter2.yunlab.app/services/grading/" 
+    <iframe src="https://jupyter.yunlab.app/services/grading/" 
             style="width: 100vw; height: 100vh; border: none;">
     </iframe>
 </body>
